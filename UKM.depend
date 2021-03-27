@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1557904806 source:f:\telyu\struktur data\tubesku tercinta\ukm\ukm.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"UKM.h"
+
+1557902587 f:\telyu\struktur data\tubesku tercinta\ukm\ukm.h
+
+1557904098 source:f:\telyu\struktur data\tubesku tercinta\ukm\main.cpp
+	<iostream>
+	<conio.h>
+	"UKM.h"
+
+1557570305 source:d:\ukm\main.cpp
+	<iostream>
+	"UKM.h"
+
+1557566859 d:\ukm\ukm.h
+
+1557568983 source:d:\ukm\ukm.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"UKM.h"
+
+1557610380 source:f:\telyu\ukm\main.cpp
+	<iostream>
+	<conio.h>
+	"UKM.h"
+
+1557566859 f:\telyu\ukm\ukm.h
+
+1557605107 source:f:\telyu\ukm\ukm.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"UKM.h"
+
+1557910263 source:c:\users\om rivan\downloads\tubes\ukm\main.cpp
+	<iostream>
+	<conio.h>
+	"UKM.h"
+
+1557902588 c:\users\om rivan\downloads\tubes\ukm\ukm.h
+
+1557910850 source:c:\users\om rivan\downloads\tubes\ukm\ukm.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"UKM.h"
+
+1557990115 source:d:\tugas besar\ukm\main.cpp
+	<iostream>
+	<conio.h>
+	"UKM.h"
+
+1557902588 d:\tugas besar\ukm\ukm.h
+
+1557990115 source:d:\tugas besar\ukm\ukm.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"UKM.h"
+
